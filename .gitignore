@@ -1,0 +1,7 @@
+# Ignore backend folder contents
+backend/backend/.env
+backend/backend/node_modules/
+
+# Ignore frontEnd folder contents
+frontEnd/frontent/.env
+frontEnd/frontent/node_modules/
